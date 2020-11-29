@@ -1,0 +1,26 @@
+{
+  "name": "betty-orm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashiqhassan95/betty-orm.git"
+  },
+  "keywords": [
+    "betty-orm",
+    "sql-orm"
+  ],
+  "author": "Ashique Hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashiqhassan95/betty-orm/issues"
+  },
+  "homepage": "https://github.com/ashiqhassan95/betty-orm#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
